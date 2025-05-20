@@ -15,3 +15,10 @@ Notes
 This version targets desktop and does not include responsive layout.
 The project was created using Visual Studio Code.
 Version control was handled with Git, and the project was continuously committed and uploaded to GitHub.
+
+With more time, I would have:
+Made the layout responsive for smaller screens.
+Improved accessibility with clearer alt texts and keyboard navigation.
+Used relative units and web fonts for better typography.
+Structured the CSS for better readability and maintainability.
+Structured the HTML more thought through and have a clearer plan.
